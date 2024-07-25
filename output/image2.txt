@@ -1,0 +1,19 @@
+What is Optical Character Recognition (OCR)?
+
+Optical Character Recognition (OCR) is an electronic conversion of the typed,
+
+handwritten or printed text images into machine-encoded text.
+
+With OCR a huge number of paper-based documents, across multiple languages
+and formats can be digitized into machine-readable text that not only makes
+storage easier but also makes previously inaccessible data available to anyone at
+
+a click.
+
+Just think about the amount of archive boxes full of paper that lies in a city or a
+
+government basement.
+
+Such images and documents can be scanned as a document, a document photo,
+
+or a scene photo (e.g. text on signs and billboards).

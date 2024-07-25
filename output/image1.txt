@@ -1,0 +1,20 @@
+OCR - Optical Character Recognition
+
+Article + 06/26/2024 + 3 contributors & Feedback
+
+In this article
+
+‘OCR engine
+
+‘OCR (Read) editions
+
+How is OCR related to Intelligent Document Processing (IDP)?
+How to use OCR
+
+Show 5 more
+
+OCR or Optical Character Recognition is also referred to as text recognition or text extraction. Machine-leaming-based
+OCR techniques allow you to extract printed or handwritten text from images such as posters, street signs and product
+labels, as well as from documents like articles, reports, forms, and invoices. The text is typically extracted as words, text
+lines, and paragraphs or text blocks, enabling to digital version of the scanned text. This eliminates or significantly
+reduces the need for manual data entry.

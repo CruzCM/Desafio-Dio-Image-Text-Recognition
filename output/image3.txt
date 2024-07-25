@@ -1,0 +1,30 @@
+»)) O Que E OCR?
+
+A principal duvida que surge inicialmente é sobre o significado de OCR. Em resumo, OCR é a sigla para Optical Character
+
+Recognition (Reconhecimento dptico de caracteres). Trata-se de um método utilizado para identificar e analisar o texto
+
+presente em paginas, convertendo os caracteres em cédigo que pode ser utilizado para manipular dados. De forma
+
+simples, 0 OCR é uma técnica que permite detectar texto em arquivos e imagens de documentos digitalizados.
+
+Os sistemas de OCR englobam tanto software quanto hardware que transformam documentos fisicos em texto legivel por
+
+maquina, ou seja, em sua versdo eletrénica.
+
+Além disso, uma vez que o documento tenha sido salvo no formato PDF de OCR, os usudrios podem realizar edigdes no
+
+estilo, design e andlise do documento, como se ele tivesse sido originalmente criado usando um processador de texto.
+
+Por exemplo, ao digitalizar uma foto ou um documento utilizando uma impressora, serd gerado um arquivo de imagem
+digital. Esse arquivo pode estar em formato PDF, JPG ou TIFF, mas é importante ressaltar que se trata apenas de uma
+
+reproducdo do arquivo original. No entanto, é possivel utilizar softwares de OCR para carregar a digitalizagéo eletrénica
+do documento, que contém tanto a imagem quanto 0 texto. © OCR entéo ird identificar o texto presente no documento
+
+e converté-lo em um arquivo de texto editavel.
+
+As versées eletrénicas desses textos tém um potencial significative para auxiliar criangas, especialmente adultos com
+dificuldades de leitura. € por essa razéio que o texto digital pode ser empregado por diversos softwares para facilitar a
+
+compreenséo.
